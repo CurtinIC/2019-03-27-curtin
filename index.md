@@ -10,7 +10,7 @@ humandate: "16-18 July 2018"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-07-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-07-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Rebecca Lange", "Dan Marrable", Richard Hosking", "Tim Young"] # boxed, comma-separated list of instructors' names as strings
+instructor: ["Rebecca Lange", "Dan Marrable", "Richard Hosking", "Tim Young"] # boxed, comma-separated list of instructors' names as strings
 helper: ["Cara Kreck", "TBC"]     # boxed, comma-separated list of helpers' names
 contact: ["rebecca.lange@curtin.edu.au"]    # boxed, comma-separated list of contact email addresses for the host
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -45,11 +45,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   scrolling="auto">
 </iframe>
 {% endif %}
-
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
 
 <h2 id="general">General Information</h2>
 
