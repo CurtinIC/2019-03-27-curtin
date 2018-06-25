@@ -2,12 +2,12 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Curtin University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Building 204 : Room 119, Bentley Campus, 6102, Bentley"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Building 216 : Room 201, Bentley Campus, 6102, Bentley"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "Australia"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-32.006963, 115.894348"      # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "16-18 July 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+latlng: "-32.0069186, 115.892092"      # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "16 - 18 July 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-07-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-07-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Rebecca Lange", "Dan Marrable", "Richard Hosking", "Tim Young"] # boxed, comma-separated list of instructors' names as strings
