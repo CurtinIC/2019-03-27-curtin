@@ -317,6 +317,9 @@ eventbrite:   "47203037556"        # optional: alphanumeric key for Eventbrite r
             <li>Click on "Next".</li>
             {% comment %} Select Components {% endcomment %}
             <li>Click on "Next".</li>
+	    <li>
+		    <strong>Keep “Use the nano editor by default” and click on “Next”.<strong>
+			    </li>
             {% comment %} Adjusting your PATH environment {% endcomment %}
             <li>
               <strong>
@@ -326,7 +329,8 @@ eventbrite:   "47203037556"        # optional: alphanumeric key for Eventbrite r
                 If this happens rerun the installer and select the appropriate option.
             </li>
             {% comment %} Choosing the SSH executable {% endcomment %}
-            <li>Click on "Next".</li>
+            <li>Keep “Use OpenSSH” and click on "Next".</li>
+	    <li>Keep “Use the OpenSSL library” and click on "Next".</li>
             {% comment %} Configuring the line ending conversions {% endcomment %}
             <li>
               <strong>
