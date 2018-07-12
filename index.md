@@ -318,7 +318,7 @@ eventbrite:   "47203037556"        # optional: alphanumeric key for Eventbrite r
             {% comment %} Select Components {% endcomment %}
             <li>Click on "Next".</li>
 	    <li>
-		    <strong>Keep “Use the nano editor by default” and click on “Next”.<strong>
+		    <strong>Keep “Use the nano editor by default” and click on “Next”.</strong>
 			    </li>
             {% comment %} Adjusting your PATH environment {% endcomment %}
             <li>
