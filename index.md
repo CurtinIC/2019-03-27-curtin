@@ -7,11 +7,11 @@ country: "Australia"      # lowercase two-letter ISO country code such as "fr" (
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-32.0069186, 115.892092"      # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "27 - 29 March 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-03-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-03-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Rebecca Lange", "TBC"] # boxed, comma-separated list of instructors' names as strings
-helper: ["TBC"]     # boxed, comma-separated list of helpers' names
+helper: ["Behrouz Behesti","Kathryn Napier", "Mohsin Shaikh", "Nancy Tippaya"]     # boxed, comma-separated list of helpers' names
 contact: ["rebecca.lange@curtin.edu.au"]    # boxed, comma-separated list of contact email addresses for the host
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:   "57763848225"        # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
